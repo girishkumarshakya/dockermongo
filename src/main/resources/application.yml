@@ -1,0 +1,8 @@
+server:
+  port: 8888
+spring:
+  data:
+    mongodb:
+      database: Address
+      host: databasemongodb
+      port: 27017
